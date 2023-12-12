@@ -1,5 +1,6 @@
 
 世间纷扰皆为利，独守初心唯热爱。生活所迫难随心，砥砺前行情未泯。代码情怀犹在胸，忙里偷闲寻乐趣。愿闻稻花香里笑，他日回首无憾事。
+<br />
 编程犹如攀登峰，热爱指引前行路。生活中奔波劳碌，心中仍有那片蓝。追逐梦想不舍弃，苦中作乐寻欢乐。他日重逢热爱处，笑谈今日艰辛度。
 
 | [![Amd794's github stats](https://github-readme-stats.vercel.app/api?username=Amd794&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://amd794.com) | [![img](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true)](https://amd794.com) |
