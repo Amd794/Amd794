@@ -4,7 +4,7 @@
 编程犹如攀登峰，热爱指引前行路。生存奔波日复日，心中仍有那片蓝。追逐梦想不舍弃，苦中作乐寻欢笑。它日重逢热爱处，笑谈今日艰辛度。
 
 
-| [![Amd794's github stats](https://github-readme-stats.vercel.app/api?username=Amd794&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://amd794.com) | [![img](https://github-readme-stats.vercel.app/api/top-langs/?username=Amd794&layout=compact&theme=buefy&hide_border=true)](https://amd794.com) |
+| [![Amd794's github stats](https://github-readme-stats.vercel.app/api?username=Amd794&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=prs)](https://amd794.com) | [![img](https://github-readme-stats.vercel.app/api/top-langs/?username=Amd794&layout=compact&theme=buefy&hide_border=true)](https://amd794.com) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
