@@ -11,9 +11,6 @@
 <a href="https://github.com/Amd794/kanleying">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amd794&repo=kanleying&theme=buefy" />
 </a>
-<a href="https://github.com/Amd794/Python123">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amd794&repo=Python123&theme=buefy" />
-</a>
 
 
 <br />
