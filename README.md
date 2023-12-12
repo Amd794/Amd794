@@ -1,4 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amd794)](https://github.com/anuraghazra/github-readme-stats)
+ 
+| [![Amd794's github stats](https://github-readme-stats.vercel.app/api?username=Amd794&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![img](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 
 <!--
 **Amd794/Amd794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
